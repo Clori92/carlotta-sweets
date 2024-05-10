@@ -7,18 +7,16 @@ Routing is very important because we are able to switch pages without making the
 
 ## Must-haves
 
-To be able to run and see this project you should download all the content and while inside the folder you should install the node_modules back with the:
-### `npm install`
+To be able to run and see this project you should download all the content and while inside the folder you should install the node_modules back with: `npm install`
 
-After doing that you should be able to run the React application with
-### `npm start`
+After doing that you should be able to run the React application with: `npm start`
 
 When everything is done you should be about to see the Home page!
 ![image](https://github.com/Clori92/carlotta-sweets/assets/163460407/4fd5b950-2ce4-4723-970c-79436269ed16)
 
 
-Have fun and enjoy :)\
-Credits:\
+#### Have fun and enjoy :)\
+### Credits:\
 `Carlotta Riccardi`
 
 
