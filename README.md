@@ -15,8 +15,8 @@ When everything is done you should be about to see the Home page!
 ![image](https://github.com/Clori92/carlotta-sweets/assets/163460407/4fd5b950-2ce4-4723-970c-79436269ed16)
 
 
-#### Have fun and enjoy :)\
-### Credits:\
+#### Have fun and enjoy :)
+### Credits:
 `Carlotta Riccardi`
 
 
