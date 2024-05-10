@@ -9,7 +9,7 @@ In this project, we are going to navigate through a web page using the Routing s
 Within the webpage you can go through different pages using the navigation bar at the top of the page.
 
 
-Routing is very important because we are able to switch pages without making the page refresh, adding React.js hooks can make the user's life easier.
+Routing is very important because we are able to switch pages without making the page refresh, adding React.js hooks can make the user's life easier and using components from react-bootstrap to style our pages.
 
 ## Must-haves
 
