@@ -2,7 +2,11 @@
 
 `Carlotta Sweets` was my home food business that I created during Covid to be able to sell my cakes, fast forward to now, I had some fun with this task and recreated this website by myself instead of using a template :)\
 In this project, we are going to navigate through a web page using the Routing system in React.js\
+
+
 Within the webpage you can go through different pages using the navigation bar at the top of the page.\
+
+
 Routing is very important because we are able to switch pages without making the page refresh, adding React.js hooks can make the user's life easier.
 
 ## Must-haves
